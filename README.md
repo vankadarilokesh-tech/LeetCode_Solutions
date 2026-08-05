@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [3731-find-missing-elements](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
@@ -14,9 +15,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/vankadarilokesh-tech/LeetCode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
